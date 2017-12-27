@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kotlin_Firebase_CloudFirestore</string>
+    <string name="title_activity_list_user">ListUserActivity</string>
+    <string name="registrar_usuario">Registrar Usuario</string>
+    <string name="nombre_usuario">Nombre del Usuario</string>
+    <string name="apellidos_usuario">Apellidos del Usuario</string>
+    <string name="sexo_usuario">Sexo del Usuario</string>
+    <string name="edad">Edad</string>
+</resources>

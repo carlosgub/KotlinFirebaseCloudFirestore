@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "404580286239",
+    "firebase_url": "https://kotlin-cloudfires.firebaseio.com",
+    "project_id": "kotlin-cloudfires",
+    "storage_bucket": "kotlin-cloudfires.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404580286239:android:404d80e81916356b",
+        "android_client_info": {
+          "package_name": "com.carlosgabrielugazburga.kotlin_firebase_cloudfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404580286239-chhprh2c0vgjk9jjhafc530lajm5oeot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTiORQvs2EwIuHpjBGMBr0dU0XpLVoWdU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
